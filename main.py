@@ -10,7 +10,7 @@ pygame.init()
 screen = pygame.display.set_mode((800, 600))
 
 #Titulo e icono
-pygame.display.set_caption("Invasion Espacial")
+pygame.display.set_caption("Space Invasion")
 icono = pygame.image.load("icono_nave.png")
 pygame.display.set_icon(icono)
 fondo = pygame.image.load('fondo(800x600).png') 
