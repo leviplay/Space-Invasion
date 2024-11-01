@@ -43,7 +43,7 @@ for e in range(cantidad_enemigos):
     enemy_x.append(random.randint(0,736))
     enemy_y.append(random.randint(50,100))
     enemy_x_cambio.append(0.4)
-    enemy_y_cambio.append(30)
+    enemy_y_cambio.append(25)
 
 #Variables laser
 laser = []
